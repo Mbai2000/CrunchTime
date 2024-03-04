@@ -1,5 +1,7 @@
 # CrunchTime
 
+![Screenshot 2024-03-04 003839](https://github.com/Mbai2000/CrunchTime/assets/90491095/778749f7-a4b7-483a-ba9b-f406f8cc16ff)
+
 A knight finds himself trapped in ancient ruins filled with monsters! To make things worse, vengeful spirits have placed a curse on him for disturbing their rest. Time is quickly running out! He needs to escape before the curse takes hold and he is overrun by the monsters or the curse claims him. 
 
 ### Built With
